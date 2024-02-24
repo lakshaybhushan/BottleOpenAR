@@ -14,6 +14,7 @@
 
 If you want to **clone** the project, please use git bash to clone the project using the following command in your terminal because the project is using **Git LFS** for large files (3D models) and the project size is over 5 GB.
 
+The command to clone the project:
 
 ```bash
 git clone https://github.com/lakshaybhushan/BottleOpenAR.git
