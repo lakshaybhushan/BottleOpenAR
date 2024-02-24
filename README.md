@@ -21,3 +21,6 @@ git clone https://github.com/lakshaybhushan/BottleOpenAR.git
 ```
 
 Do check out the [Demo Video](https://youtu.be/o3mBrGpkFQ8) to know more about the project.
+
+P.S
+You will require the **image target** in print to use the application. You can find the image target with the name "ImageTarget.pdf" in the root directory of the project.
